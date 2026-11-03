@@ -3,4 +3,4 @@
 Repo de test pour apprendre Git et GitHub Desktop.
 
 ## Membres
-- Thipath
+- Thipath- Ajout fait en ligne de commande
