@@ -1,6 +1,6 @@
 # Lab 1 Git DevOps
 
-Ligne modifiée par cli-branche2.
+Version A de la ligne 3
 
 ## Membres
 - Thipath
